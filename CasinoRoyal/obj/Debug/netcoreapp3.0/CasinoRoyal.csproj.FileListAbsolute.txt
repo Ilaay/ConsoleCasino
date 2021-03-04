@@ -1,0 +1,11 @@
+D:\University\SoloStudying\CasinoRoyal\bin\Debug\netcoreapp3.0\CasinoRoyal.exe
+D:\University\SoloStudying\CasinoRoyal\bin\Debug\netcoreapp3.0\CasinoRoyal.deps.json
+D:\University\SoloStudying\CasinoRoyal\bin\Debug\netcoreapp3.0\CasinoRoyal.runtimeconfig.json
+D:\University\SoloStudying\CasinoRoyal\bin\Debug\netcoreapp3.0\CasinoRoyal.runtimeconfig.dev.json
+D:\University\SoloStudying\CasinoRoyal\bin\Debug\netcoreapp3.0\CasinoRoyal.dll
+D:\University\SoloStudying\CasinoRoyal\bin\Debug\netcoreapp3.0\CasinoRoyal.pdb
+D:\University\SoloStudying\CasinoRoyal\obj\Debug\netcoreapp3.0\CasinoRoyal.csprojAssemblyReference.cache
+D:\University\SoloStudying\CasinoRoyal\obj\Debug\netcoreapp3.0\CasinoRoyal.AssemblyInfoInputs.cache
+D:\University\SoloStudying\CasinoRoyal\obj\Debug\netcoreapp3.0\CasinoRoyal.AssemblyInfo.cs
+D:\University\SoloStudying\CasinoRoyal\obj\Debug\netcoreapp3.0\CasinoRoyal.dll
+D:\University\SoloStudying\CasinoRoyal\obj\Debug\netcoreapp3.0\CasinoRoyal.pdb
